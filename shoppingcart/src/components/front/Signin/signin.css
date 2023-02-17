@@ -1,0 +1,30 @@
+.signin {
+    background-image:url(/public/images/it.png) ;
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    background-color: #030357;
+    margin-top: 30px;
+    height: 60vh;
+    font-size: 20px;
+    font-weight: 700;
+    justify-content: center;
+    color: rgb(11, 20, 77);
+    
+}
+.btnStyle{
+    border-radius: 5px;
+    background-color: rgb(61, 5, 120);
+    width: 38%;
+    height: 30px;
+    display: block;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin: 15px auto;
+    font-size: 12px;
+    letter-spacing: 4px;
+    font-weight: 500;
+    color: rgb(252, 248, 248);
+}
+
